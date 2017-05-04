@@ -1,3 +1,4 @@
+# ALL PASSING
 require 'rails_helper'
 
 RSpec.describe Attraction, :type => :model do

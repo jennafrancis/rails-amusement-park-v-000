@@ -38,7 +38,6 @@ group :test, :development do
   gem "rspec-rails"
   gem "capybara"
   gem "selenium-webdriver"
-  gem "better_errors"
   gem "sprockets_better_errors"
   gem "binding_of_caller"
   gem "factory_girl_rails"
@@ -56,3 +55,4 @@ group :production do
 end
 
 gem "bootstrap-sass", "~> 3.1.1"
+gem 'devise'

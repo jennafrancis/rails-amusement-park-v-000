@@ -1,3 +1,4 @@
+# LAST 3 FAIL -- SEE RIDE CLASS FOR TAKE_RIDE METHOD
 require 'rails_helper'
 
 RSpec.describe Ride, :type => :model do
